@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="gametheory.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       id="box">
+      <rect
+         x="0"
+         y="0"
+         width="650"
+         height="400"
+         style="fill:none;stroke:none"
+         id="rect5" />
+    </clipPath>
+    <clipPath
+       id="box-8">
+      <rect
+         x="0"
+         y="0"
+         width="650"
+         height="400"
+         style="fill:none;stroke:none"
+         id="rect5-0" />
+    </clipPath>
+    <clipPath
+       id="box-6">
+      <rect
+         x="0"
+         y="0"
+         width="650"
+         height="400"
+         style="fill:none;stroke:none"
+         id="rect5-4" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="341.53525"
+     inkscape:cy="484.88957"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="551"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3763"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;text-align:justify"><flowRegion
+         id="flowRegion3765"><rect
+           id="rect3767"
+           width="55.714287"
+           height="50"
+           x="-568.57141"
+           y="354.50504"
+           style="text-anchor:start;text-align:justify" /></flowRegion><flowPara
+         id="flowPara3769" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3779"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:justify"><flowRegion
+         id="flowRegion3781"><rect
+           id="rect3783"
+           width="180.71428"
+           height="48.57143"
+           x="-299.28571"
+           y="359.50504"
+           style="text-anchor:start;text-align:justify" /></flowRegion><flowPara
+         id="flowPara3785" /><flowPara
+         id="flowPara3787">sl</flowPara></flowRoot>    <g
+       id="g3940"
+       transform="matrix(0.47660097,0,0,0.47660097,329.25623,-92.19205)">
+      <rect
+         y="346.64789"
+         x="-574.28571"
+         height="228.57143"
+         width="471.42856"
+         id="rect2985"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3755"
+         d="m -487.14286,345.21932 0,229.28572"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3757"
+         d="m -575,423.07647 472.85714,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3759"
+         d="m -574.28571,497.93361 470,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3761"
+         d="m -312.14286,345.21932 0,229.28572"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(34.857143,4.2857143)"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3771"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3773"><rect
+             style="font-size:30px"
+             y="359.50504"
+             x="-477.14285"
+             height="55"
+             width="154.28572"
+             id="rect3775" /></flowRegion><flowPara
+           id="flowPara3777">Hunt</flowPara></flowRoot>      <flowRoot
+         transform="translate(57,-0.57142857)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3789"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3791"><rect
+             y="361.64789"
+             x="-307.14285"
+             height="47.142857"
+             width="162.14285"
+             id="rect3793" /></flowRegion><flowPara
+           style="font-size:30px"
+           id="flowPara3795">Slack</flowPara></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         id="path3797"
+         d="m -575,345.21932 86.42857,76.42858"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(-1.4285714,-11.428571)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3799"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3801"><rect
+             y="351.64789"
+             x="-535.71429"
+             height="109.28571"
+             width="117.85714"
+             id="rect3803" /></flowRegion><flowPara
+           id="flowPara3807">P2</flowPara></flowRoot>      <flowRoot
+         transform="translate(-33.608539,27.108287)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3799-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3801-3"><rect
+             y="351.64789"
+             x="-535.71429"
+             height="109.28571"
+             width="117.85714"
+             id="rect3803-6" /></flowRegion><flowPara
+           id="flowPara3807-7">P1</flowPara><flowPara
+           id="flowPara3838" /></flowRoot>      <flowRoot
+         transform="translate(7.1428572,17.142858)"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3840"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3842"><rect
+             style="font-size:30px"
+             y="425.21933"
+             x="-576.42859"
+             height="92.14286"
+             width="102.85714"
+             id="rect3844" /></flowRegion><flowPara
+           id="flowPara3846">Hunt</flowPara></flowRoot>      <flowRoot
+         transform="translate(1.4285714,-10)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3848"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3850"><rect
+             y="525.93359"
+             x="-572.14288"
+             height="63.57143"
+             width="138.57143"
+             id="rect3852" /></flowRegion><flowPara
+           style="font-size:30px"
+           id="flowPara3856">Slack</flowPara></flowRoot>      <flowRoot
+         transform="translate(38.16741,-1.5298411)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3860"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3862"><rect
+             y="434.50504"
+             x="-471.42856"
+             height="52.857143"
+             width="142.14285"
+             id="rect3864" /></flowRegion><flowPara
+           id="flowPara3866">0,0</flowPara></flowRoot>      <flowRoot
+         transform="translate(221.76395,-1.5298411)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3860-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3862-1"><rect
+             y="434.50504"
+             x="-471.42856"
+             height="52.857143"
+             width="142.14285"
+             id="rect3864-8" /></flowRegion><flowPara
+           id="flowPara3866-0">-3,1</flowPara></flowRoot>      <flowRoot
+         transform="translate(30.335379,74.797461)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3860-4"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3862-6"><rect
+             y="434.50504"
+             x="-471.42856"
+             height="52.857143"
+             width="142.14285"
+             id="rect3864-9" /></flowRegion><flowPara
+           id="flowPara3866-8">1,-3</flowPara></flowRoot>      <flowRoot
+         transform="translate(214.69364,76.226033)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3860-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3862-2"><rect
+             y="434.50504"
+             x="-471.42856"
+             height="52.857143"
+             width="142.14285"
+             id="rect3864-5" /></flowRegion><flowPara
+           id="flowPara3866-3">-2,-2</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3989"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:justify"
+       transform="translate(-17.857143,-2.1428572)"><flowRegion
+         id="flowRegion3991"><rect
+           id="rect3993"
+           width="310"
+           height="101.42857"
+           x="27.142857"
+           y="3.7907536"
+           style="text-anchor:start;text-align:justify" /></flowRegion><flowPara
+         id="flowPara3995">My strategy...</flowPara><flowPara
+         id="flowPara3997" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4021"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(245.71428,112.85714)"><flowRegion
+         id="flowRegion4023"><rect
+           id="rect4025"
+           width="391.42856"
+           height="101.42857"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4027">This shows the pay-offs for each strategy:</flowPara><flowPara
+         id="flowPara4029" /></flowRoot>    <flowRoot
+       transform="translate(482.57142,126.28571)"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4031"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4033"><rect
+           style="font-size:10px;text-align:justify;text-anchor:start"
+           y="-59.066391"
+           x="-194.28572"
+           height="101.42857"
+           width="391.42856"
+           id="rect4035" /></flowRegion><flowPara
+         id="flowPara4039">Clearly, Slack-slack is the dominant strategy and also Nash Equilibrium, but since this is a repeated game it is not so simple. I have calculated that the discount factor for the game is a third, meaning that as long as there is at least 1/3 chance that the game will continue, it is worth cooperating.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4043"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(482.85713,181.71428)"><flowRegion
+         id="flowRegion4045"><rect
+           id="rect4047"
+           width="391.42856"
+           height="101.42857"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4049">Obviously, the best outcome for me is when I slack and my opponent hunts. If a player has a very very low reputation, chances are they will slack, in which case there is no point hunting with them. And if a player has a very very high reputation, chances are they will hunt - I can then take advantage of this by slacking. </flowPara></flowRoot>    <flowRoot
+       transform="translate(212.51202,262.96634)"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:justify"
+       id="flowRoot4031-5"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4033-1"><rect
+           style="font-size:10px;text-anchor:start;text-align:justify"
+           y="-59.066391"
+           x="-194.28572"
+           height="103.44888"
+           width="370.21536"
+           id="rect4035-0" /></flowRegion><flowPara
+         id="flowPara4039-1">The basis of my algorithm, then, is to slack for low and high reputations and hunt somewhere in the middle. I implement this in a couple of ways:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4118"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(211.94073,294.42609)"><flowRegion
+         id="flowRegion4120"><rect
+           id="rect4122"
+           width="370.21539"
+           height="109.50979"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4124">Firstly and most simply, I check the reputation of my opponent and if it is less than 0.2 or greater than 0.9 I will definitely slack. This is not shown in the following graphs, but it is worth noting that for opponent reputations under 0.2 and over 0.9, the probability I will hunt is 0. This hard rule of always slacking at extremes only comes into play after 10 rounds, to allow the players to build up a representative reputation.</flowPara></flowRoot>    <flowRoot
+       transform="translate(212.51202,379.42682)"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4126"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4128"><rect
+           style="font-size:10px;text-align:justify;text-anchor:start"
+           y="-59.066391"
+           x="-194.28572"
+           height="103.44888"
+           width="368.19504"
+           id="rect4130" /></flowRegion><flowPara
+         id="flowPara4132">To decide what to do on the values in between, I use weighted randomisation.</flowPara><flowPara
+         id="flowPara4134" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4136"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(212.0628,412.80463)"><flowRegion
+         id="flowRegion4138"><rect
+           id="rect4140"
+           width="366.17474"
+           height="109.5098"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4144">I define a variable called hunt_probability, which is the probability I will hunt. I calculate this based on a number of factors, which I shall describe below. I then pass hunt_probability and 1-hunt_probability to a function which will return 0 or 1 with each probability respectively. If I get a 0, I hunt, if I get a 1, I slack.</flowPara></flowRoot>    <g
+       clip-path="url(#box-6)"
+       id="g7-9"
+       transform="matrix(0.53532983,0,0,0.53532983,16.431561,474.56512)">
+      <rect
+         x="0"
+         y="0"
+         width="650"
+         height="400"
+         style="fill:#ffffff;stroke:none"
+         id="rect9-9" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,359 650,0 M 0,309 650,309 M 0,259 650,259 M 0,209 650,209 M 0,159 650,159 M 0,109 650,109 M 0,59 650,59 M 0,9 650,9 M 37,0 37,400 M 87,0 87,400 m 50,-400 0,400 m 50,-400 0,400 m 50,-400 0,400 m 50,-400 0,400 m 50,-400 0,400 m 50,-400 0,400 m 50,-400 0,400 m 50,-400 0,400 m 50,-400 0,400 m 50,-400 0,400 m 50,-400 0,400"
+         style="fill:none;stroke:#d0d0d0;stroke-width:1"
+         id="path11-6" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 188,0 0,400"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path13-3" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 181.5,409.25 13,0 m -13,-50 13,0 m -13,-50 13,0 m -13,-50 13,0 m -13,-50 13,0 m -13,-50 13,0 m -13,-50 13,0 m -13,-50 13,0 m -13,-50 13,0"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path15-5" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,309.25 650,0"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path17-46" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -12,302.75 0,13 m 50,-13 0,13 m 50,-13 0,13 m 50,-13 0,13 m 50,-13 0,13 m 50,-13 0,13 m 50,-13 0,13 m 50,-13 0,13 m 50,-13 0,13 m 50,-13 0,13 m 50,-13 0,13 m 50,-13 0,13 m 50,-13 0,13 m 50,-13 0,13"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path19-1" />
+      <text
+         x="196.125"
+         y="361.75"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text21-0">-0.2</text>
+      <text
+         x="196.125"
+         y="311.75"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text23-9">0</text>
+      <text
+         x="196.125"
+         y="261.75"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text25-4">0.2</text>
+      <text
+         x="196.125"
+         y="211.75"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text27-0">0.4</text>
+      <text
+         x="196.125"
+         y="161.75"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text29-9">0.6</text>
+      <text
+         x="196.125"
+         y="111.75"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text31-3">0.8</text>
+      <text
+         x="196.125"
+         y="61.75"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text33-9">1</text>
+      <text
+         x="196.125"
+         y="11.75"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text35-32">1.2</text>
+      <text
+         x="38"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text37-46">-0.6</text>
+      <text
+         x="88"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text39-4">-0.4</text>
+      <text
+         x="138"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text41-2">-0.2</text>
+      <text
+         x="188"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text43-1">0</text>
+      <text
+         x="238"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text45-3">0.2</text>
+      <text
+         x="288"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text47-0">0.4</text>
+      <text
+         x="338"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text49-27">0.6</text>
+      <text
+         x="388"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text51-5">0.8</text>
+      <text
+         x="438"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text53-0">1</text>
+      <text
+         x="488"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text55-6">1.2</text>
+      <text
+         x="538"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text57-1">1.4</text>
+      <text
+         x="588"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text59-7">1.6</text>
+      <text
+         x="638"
+         y="325.375"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text61-8">1.8</text>
+      <path
+         inkscape:connector-curvature="0"
+         d="m -10,200 9.75,109.25 1,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,-0.01 2,0 2,0 2,0 2,0 2,-0.01 2,0 2,0 2,-0.01 2,0 2,-0.01 2,-0.01 2,-0.01 2,-0.01 2,-0.02 2,-0.02 2,-0.02 2,-0.02 2,-0.03 2,-0.03 2,-0.04 2,-0.05 2,-0.05 2,-0.06 2,-0.07 2,-0.09 2,-0.09 2,-0.11 2,-0.13 2,-0.15 2,-0.16 2,-0.2 2,-0.22 2,-0.24 2,-0.29 2,-0.32 2,-0.36 2,-0.41 2,-0.46 2,-0.52 2,-0.57 2,-0.65 2,-0.72 2,-0.8 2,-0.89 2,-0.99 2,-1.08 1.84,-1.1 1.67,-1.09 1.55,-1.08 1.43,-1.07 1.33,-1.06 1.26,-1.06 1.19,-1.05 1.12,-1.05 1.07,-1.05 1.03,-1.04 0.98,-1.04 0.94,-1.04 0.91,-1.04 0.87,-1.04 0.85,-1.03 0.81,-1.03 0.8,-1.03 0.77,-1.03 0.74,-1.03 0.73,-1.02 0.71,-1.03 0.69,-1.02 0.67,-1.03 0.66,-1.02 0.64,-1.02 0.63,-1.02 0.62,-1.02 0.61,-1.02 0.59,-1.02 0.58,-1.02 0.57,-1.02 0.56,-1.02 0.55,-1.01 0.54,-1.02 0.54,-1.02 0.52,-1.01 0.52,-1.02 0.51,-1.01 0.5,-1.02 0.49,-1.01 0.49,-1.01 0.48,-1.02 0.47,-1.01 0.47,-1.01 0.46,-1.02 0.46,-1.01 0.45,-1.01 0.45,-1.01 0.44,-1.01 0.44,-1.01 0.43,-1.01 0.43,-1.01 0.42,-1.01 0.42,-1.01 0.41,-1.01 0.41,-1.01 0.41,-1.01 0.4,-1.01 0.4,-1.01 0.4,-1.01 0.39,-1.01 0.39,-1.01 0.38,-1 0.39,-1.01 0.38,-1.01 0.37,-1.01 0.38,-1.01 0.37,-1 0.37,-1.01 0.36,-1.01 0.37,-1 0.36,-1.01 0.35,-1.01 0.36,-1 0.35,-1.01 0.36,-1.01 0.35,-1 0.34,-1.01 0.35,-1 0.34,-1.01 0.34,-1 0.34,-1.01 0.34,-1.01 0.34,-1 0.33,-1.01 0.33,-1 0.33,-1.01 0.33,-1 0.33,-1 0.33,-1.01 0.32,-1 0.32,-1.01 0.33,-1 0.32,-1.01 0.32,-1 0.31,-1 0.32,-1.01 0.32,-1 0.31,-1.01 0.31,-1 0.32,-1 0.31,-1.01 0.31,-1 0.31,-1 0.3,-1 0.31,-1.01 0.31,-1 0.3,-1 0.31,-1.01 0.3,-1 0.3,-1 0.31,-1 0.3,-1.01 0.3,-1 0.3,-1 0.3,-1 0.3,-1 0.3,-1.01 0.29,-1 0.3,-1 0.3,-1 0.29,-1 0.3,-1 0.29,-1.01 0.3,-1 0.29,-1 0.3,-1 0.29,-1 0.29,-1 0.3,-1 0.29,-1 0.29,-1 0.29,-1.01 0.3,-1 0.29,-1 0.29,-1 0.29,-1 0.29,-1 0.3,-1 0.29,-1 0.29,-1 0.29,-1 0.29,-1 0.29,-1 0.29,-1 0.3,-1 0.29,-1 0.29,-0.99 0.29,-1 0.29,-1 0.3,-1 0.29,-1 0.29,-1 0.3,-1 0.29,-1 0.3,-1 0.29,-0.99 0.3,-1 0.29,-1 0.3,-1 0.29,-1 0.3,-1 0.3,-0.99 0.3,-1 0.3,-1 0.3,-1 0.3,-0.99 0.3,-1 0.3,-1 0.3,-1 0.31,-0.99 0.3,-1 0.31,-1 0.31,-0.99 0.3,-1 0.31,-0.99 0.31,-1 0.32,-1 0.31,-0.99 0.31,-1 0.32,-0.99 0.32,-1 0.31,-0.99 0.32,-1 0.33,-0.99 0.32,-1 0.33,-0.99 0.32,-1 0.33,-0.99 0.33,-0.99 0.34,-1 0.33,-0.99 0.34,-0.99 0.34,-1 0.34,-0.99 0.35,-0.99 0.34,-0.99 0.36,-0.99 0.35,-1 0.36,-0.99 0.36,-0.99 0.36,-0.99 0.37,-0.99 0.37,-0.99 0.37,-0.99 0.38,-0.99 0.38,-0.98 0.39,-0.99 0.39,-0.99 0.4,-0.99 0.4,-0.98 0.41,-0.99 0.42,-0.98 0.42,-0.99 0.42,-0.98 0.44,-0.98 0.44,-0.98 0.45,-0.98 0.46,-0.98 0.47,-0.98 0.48,-0.98 0.49,-0.98 0.5,-0.97 0.52,-0.97 0.53,-0.97 0.54,-0.97 0.57,-0.97 0.58,-0.96 0.61,-0.96 0.63,-0.96 0.66,-0.95 0.7,-0.94 0.73,-0.94 0.78,-0.93 0.85,-0.92 0.92,-0.9 1.01,-0.88 1.16,-0.84 1.38,-0.79 1.75,-0.65 2,-0.26 2,0.25 2,0.76 2,1.26 1.58,1.36 1.17,1.19 0.98,1.13 0.87,1.09 0.79,1.08 0.73,1.07 0.69,1.05 0.66,1.05 0.62,1.05 0.6,1.04 0.57,1.03 0.55,1.03 0.54,1.04 0.52,1.02 0.5,1.03 0.5,1.02 0.48,1.03 0.47,1.02 0.46,1.02 0.45,1.02 0.44,1.02 0.43,1.02 0.43,1.01 0.42,1.02 0.41,1.01 0.41,1.02 0.4,1.01 0.4,1.01 0.39,1.02 0.39,1.01 0.38,1.01 0.37,1.01 0.38,1.01 0.37,1.01 0.36,1.01 0.36,1.01 0.36,1.01 0.36,1.01 0.35,1.01 0.35,1 0.35,1.01 0.34,1.01 0.34,1.01 0.34,1 0.34,1.01 0.33,1.01 0.33,1 0.33,1.01 0.33,1.01 0.33,1 0.32,1.01 0.32,1 0.32,1.01 0.32,1 0.32,1.01 0.32,1 0.31,1.01 0.31,1 0.32,1 0.31,1.01 0.31,1 0.3,1.01 0.31,1 0.31,1 0.3,1 0.31,1.01 0.3,1 0.3,1 0.3,1.01 0.31,1 0.3,1 0.3,1 0.29,1.01 0.3,1 0.3,1 0.3,1 0.29,1 0.3,1.01 0.29,1 0.3,1 0.29,1 0.3,1 0.29,1 0.29,1 0.3,1 0.29,1 0.29,1.01 0.29,1 0.3,1 0.29,1 0.29,1 0.29,1 0.29,1 0.29,1 0.3,1 0.29,1 0.29,1 0.29,1 0.29,1 0.29,1 0.29,1 0.3,1 0.29,1 0.29,0.99 0.29,1 0.3,1 0.29,1 0.29,1 0.3,1 0.29,1 0.29,1 0.3,1 0.29,0.99 0.3,1 0.3,1 0.29,1 0.3,1 0.3,1 0.3,0.99 0.29,1 0.3,1 0.3,1 0.3,0.99 0.31,1 0.3,1 0.3,1 0.3,0.99 0.31,1 0.3,1 0.31,1 0.31,0.99 0.3,1 0.31,1 0.31,0.99 0.31,1 0.32,1 0.31,0.99 0.31,1 0.32,1 0.31,0.99 0.32,1 0.32,0.99 0.32,1 0.32,1 0.33,0.99 0.32,1 0.33,0.99 0.32,1 0.33,0.99 0.33,1 0.33,0.99 0.34,1 0.33,0.99 0.34,1 0.34,0.99 0.34,1 0.34,0.99 0.34,1 0.35,0.99 0.35,0.99 0.35,1 0.35,0.99 0.36,1 0.35,0.99 0.36,0.99 0.37,1 0.36,0.99 0.37,0.99 0.37,0.99 0.37,1 0.37,0.99 0.38,0.99 0.38,0.99 0.38,1 0.39,0.99 0.39,0.99 0.39,0.99 0.4,0.99 0.4,0.99 0.4,0.99 0.41,0.99 0.41,1 0.42,0.99 0.42,0.99 0.42,0.99 0.43,0.99 0.43,0.98 0.44,0.99 0.44,0.99 0.44,0.99 0.46,0.99 0.45,0.99 0.47,0.99 0.46,0.98 0.48,0.99 0.48,0.99 0.48,0.98 0.5,0.99 0.5,0.99 0.5,0.98 0.52,0.99 0.52,0.98 0.53,0.99 0.54,0.98 0.55,0.98 0.55,0.99 0.57,0.98 0.57,0.98 0.59,0.98 0.6,0.98 0.61,0.99 0.62,0.97 0.63,0.98 0.65,0.98 0.66,0.98 0.68,0.98 0.69,0.97 0.71,0.98 0.73,0.97 0.75,0.98 0.76,0.97 0.79,0.97 0.81,0.97 0.84,0.97 0.87,0.97 0.89,0.96 0.93,0.97 0.96,0.96 0.99,0.96 1.04,0.96 1.09,0.95 1.13,0.96 1.19,0.95 1.25,0.94 1.33,0.95 1.4,0.94 1.49,0.93 1.6,0.93 1.72,0.92 1.86,0.92 2,0.88 2,0.8 2,0.72 2,0.65 2,0.58 2,0.51 2,0.46 2,0.41 2,0.36 2,0.32 2,0.29 2,0.25 2,0.21 2,0.2 2,0.16 2,0.15 2,0.13 2,0.11 2,0.09 2,0.09 2,0.07 2,0.06 2,0.05 2,0.05 2,0.04 2,0.03 2,0.03 2,0.02 2,0.02 2,0.02 2,0.02 2,0.01 2,0.01 2,0.01 2,0.01 2,0 2,0.01 2,0 2,0 2,0.01 2,0 2,0 2,0 2,0 2,0.01 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0"
+         style="fill:none;stroke:#ff00f7;stroke-width:1"
+         id="path63" />
+    </g>
+    <flowRoot
+       transform="translate(212.51202,484.14182)"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4148"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4150"><rect
+           style="font-size:10px;text-align:justify;text-anchor:start"
+           y="-59.066391"
+           x="-194.28572"
+           height="106.47933"
+           width="366.17474"
+           id="rect4152" /></flowRegion><flowPara
+         id="flowPara4154">The main way I caluculate hunt_probability is to use a guassian probability distribution based on the players reputation. At very low and very high reputations, hunt_probability is very small. hunt_probability peaks around the middle.</flowPara></flowRoot>    <flowRoot
+       transform="translate(212.51202,744.89454)"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4164"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4166"><rect
+           style="font-size:10px;text-align:justify;text-anchor:start"
+           y="-59.066391"
+           x="-194.28572"
+           height="103.57143"
+           width="357.41769"
+           id="rect4168" /></flowRegion><flowPara
+         id="flowPara4170">The factor of 0.5 simply shifts the distribution so that it centers around 0.5, and the factor of 4 squeezes it in so that it starts at 0 and finishes at 1. </flowPara><flowPara
+         id="flowPara4172" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4174"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(212.21417,787.93587)"><flowRegion
+         id="flowRegion4176"><rect
+           id="rect4178"
+           width="357.14285"
+           height="100.71429"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4182">I was not happy with this being perfectly symmetric, as I would also like to punish slackers and reward hunters. I therefore decided to skew the gaussian distribution based on the reputation of the opponent.</flowPara></flowRoot>    <flowRoot
+       transform="translate(212.51202,836.19257)"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4186"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4188"><rect
+           style="font-size:10px;text-align:justify;text-anchor:start"
+           y="-59.066391"
+           x="-194.28572"
+           height="101.30602"
+           width="359.89847"
+           id="rect4190" /></flowRegion><flowPara
+         id="flowPara4192">To do this, I added the reputation of the opponent to the result of the above equation, and divided by 2. This produced a weighted probability distribution with the following shape:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4194"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:justify"
+       transform="translate(594.74689,261.4041)"><flowRegion
+         id="flowRegion4196"><rect
+           id="rect4198"
+           width="324.03552"
+           height="195.68965"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-anchor:start;text-align:justify" /></flowRegion><flowPara
+         id="flowPara4200">Because this method is solely based on the opponents reputation, it is easy to end up with a low reputation if you play against others with a low reputation. Since most algorithms are likely to punish slackers, a low reputation means you risk getting starved out. </flowPara><flowPara
+         id="flowPara4549" /><flowPara
+         id="flowPara4551">To combat this, I introduced a check on my own reputation - if it falls below 0.5 I aggresively ramp up my hunt_probability by adding 0.5 minus my current reputation to the previous calculations (capping it 1 obviously). This ensures I can still build up a good reputation even if I play against others with low reputations, so should prevent me being starved out. The green line below shows the maximum this can be (i.e. when my reputation is 0) and the corresponding formula:</flowPara></flowRoot>    <flowRoot
+       transform="translate(594.4881,725.16573)"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4202"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4204"><rect
+           style="font-size:10px;text-align:justify;text-anchor:start"
+           y="-59.066391"
+           x="-194.28572"
+           height="233.06531"
+           width="323.02536"
+           id="rect4206" /></flowRegion><flowPara
+         id="flowPara4208">Finally, I take into account the value of m. If m is relatively low, it is worth increasing my hunt_probability to try and reach it as it doesn't require lots of other players to cooperate. However if m is high, it relies on lots and lots of players hunting, which may be unlikely. To determine this threshold, each round I keep track of the proportion of hunts that have taken place throughout the game relative to the total number of interactions. If m is less than the average number of hunts per interations, I deem it worth going for! I then increase my hunt_probability by multiplying by an adjustment factor of 1.1.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4210"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(594.44904,865.70305)"><flowRegion
+         id="flowRegion4212"><rect
+           id="rect4214"
+           width="323.02536"
+           height="175.48662"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4216">Had I had more time, there are a number of factors I would have liked to take into account, such as the rate of player elimination, my food earnings, how my food was varying, and the values of public-good awards. On top of that I would like to have implemented a machine learning strategy which attempts to identify and track particular players based on the variations in their reputations. I also thought about keeping track of each interaction and it's outcome to try and learn the best response for different combinations of mine and their reputations. Sadly having a full-time job meant I couldn't spend as long on this as I'd have liked!!</flowPara></flowRoot>    <flowRoot
+       transform="translate(594.74689,676.74285)"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4218"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4220"><rect
+           style="font-size:10px;text-align:justify;text-anchor:start"
+           y="-59.066391"
+           x="-194.28572"
+           height="104.77592"
+           width="319.9949"
+           id="rect4222" /></flowRegion><flowPara
+         id="flowPara4224">This graph also shows the comparison between the other probability distributions used. To play around with them see http://fooplot.com/plot/fexxqzxw4f</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4210-6"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(594.74689,1020.6408)"><flowRegion
+         id="flowRegion4212-1"><rect
+           id="rect4214-9"
+           width="323.02536"
+           height="108.81654"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4216-1">Thanks to Chad Miller for creating the excellent test environment at: </flowPara><flowPara
+         id="flowPara4561">https://github.com/ChadAMiller/hungergames</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4253"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:justify"><flowRegion
+         id="flowRegion4255"><rect
+           id="rect4257"
+           width="191.42857"
+           height="184.28572"
+           x="438.57144"
+           y="348.07648"
+           style="text-anchor:start;text-align:justify" /></flowRegion><flowPara
+         id="flowPara4259" /></flowRoot>    <image
+       y="481.81976"
+       x="229.74142"
+       id="image4313"
+       xlink:href="data:image/png;base64,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 "
+       height="57.377731"
+       width="108.24871" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4156"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:justify"
+       transform="translate(348.40165,428.5411)"><flowRegion
+         id="flowRegion4158"><rect
+           id="rect4160"
+           width="391.42856"
+           height="101.42857"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-anchor:start;text-align:justify" /></flowRegion><flowPara
+         id="flowPara4162" /></flowRoot>    <g
+       clip-path="url(#box)"
+       id="g7"
+       transform="matrix(0.54795673,0,0,0.54795673,16.431561,817.81395)">
+      <rect
+         x="0"
+         y="0"
+         width="650"
+         height="400"
+         style="fill:#ffffff;stroke:none"
+         id="rect9" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,346 650,0 M 0,282 650,282 M 0,218 650,218 M 0,154 650,154 M 0,90 650,90 M 0,26 650,26 M 47,0 47,400 m 64,-400 0,400 m 64,-400 0,400 m 64,-400 0,400 m 64,-400 0,400 m 64,-400 0,400 m 64,-400 0,400 m 64,-400 0,400 m 64,-400 0,400 m 64,-400 0,400"
+         style="fill:none;stroke:#d0d0d0;stroke-width:1"
+         id="path11" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 175.4,0 0,400"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path13" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 168.9,410.4 13,0 m -13,-64 13,0 m -13,-64 13,0 m -13,-64 13,0 m -13,-64 13,0 m -13,-64 13,0 m -13,-64 13,0"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path15" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,346.4 650,0"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path17" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -16.6,339.9 0,13 m 64,-13 0,13 m 64,-13 0,13 m 64,-13 0,13 m 64,-13 0,13 m 64,-13 0,13 m 64,-13 0,13 m 64,-13 0,13 m 64,-13 0,13 m 64,-13 0,13 m 64,-13 0,13"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path19" />
+      <text
+         x="183.52499"
+         y="348.89999"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text21">0</text>
+      <text
+         x="183.52499"
+         y="284.89999"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text23">0.2</text>
+      <text
+         x="183.52499"
+         y="220.89999"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text25">0.4</text>
+      <text
+         x="183.52499"
+         y="156.89999"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text27">0.6</text>
+      <text
+         x="183.52499"
+         y="92.900002"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text29">0.8</text>
+      <text
+         x="183.52499"
+         y="28.9"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text31">1</text>
+      <text
+         x="47.400002"
+         y="362.52499"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text33">-0.4</text>
+      <text
+         x="111.4"
+         y="362.52499"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text35">-0.2</text>
+      <text
+         x="175.39999"
+         y="362.52499"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text37">0</text>
+      <text
+         x="239.39999"
+         y="362.52499"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text39">0.2</text>
+      <text
+         x="303.39999"
+         y="362.52499"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text41">0.4</text>
+      <text
+         x="367.39999"
+         y="362.52499"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text43">0.6</text>
+      <text
+         x="431.39999"
+         y="362.52499"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text45">0.8</text>
+      <text
+         x="495.39999"
+         y="362.52499"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text47">1</text>
+      <text
+         x="559.40002"
+         y="362.52499"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text49">1.2</text>
+      <text
+         x="623.40002"
+         y="362.52499"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text51">1.4</text>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 68.2,400 0,0 2,-1 1.99,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 1.99,-1 2,-1 2,-1 1.99,-1 2,-1 1.99,-1 2,-1 1.99,-1 1.99,-1 1.99,-1 1.99,-1.01 1.99,-1 1.99,-1 1.98,-1 1.99,-1 1.98,-1 1.98,-1 1.97,-1 1.97,-1.01 1.97,-1 1.96,-1 1.96,-1 1.96,-1.01 1.95,-1 1.94,-1 1.94,-1.01 1.92,-1 1.92,-1.01 1.92,-1 1.9,-1.01 1.89,-1 1.88,-1.01 1.87,-1 1.86,-1.01 1.84,-1.01 1.83,-1.01 1.81,-1.01 1.79,-1.01 1.78,-1.01 1.76,-1.01 1.74,-1.01 1.72,-1.01 1.7,-1.02 1.68,-1.01 1.66,-1.01 1.64,-1.02 1.61,-1.01 1.59,-1.02 1.56,-1.01 1.55,-1.02 1.51,-1.01 1.5,-1.02 1.46,-1.02 1.45,-1.01 1.42,-1.02 1.39,-1.02 1.37,-1.02 1.35,-1.02 1.32,-1.01 1.3,-1.02 1.28,-1.02 1.26,-1.02 1.23,-1.02 1.21,-1.01 1.19,-1.02 1.17,-1.02 1.14,-1.02 1.13,-1.01 1.11,-1.02 1.09,-1.02 1.07,-1.02 1.05,-1.01 1.04,-1.02 1.02,-1.02 1,-1.01 0.98,-1.02 0.97,-1.01 0.96,-1.02 0.94,-1.02 0.92,-1.01 0.92,-1.02 0.89,-1.01 0.89,-1.02 0.87,-1.01 0.86,-1.01 0.85,-1.02 0.84,-1.01 0.82,-1.02 0.81,-1.01 0.81,-1.01 0.79,-1.01 0.78,-1.02 0.78,-1.01 0.76,-1.01 0.75,-1.01 0.75,-1.02 0.74,-1.01 0.72,-1.01 0.72,-1.01 0.72,-1.01 0.7,-1.01 0.7,-1.01 0.68,-1.01 0.69,-1.01 0.67,-1.01 0.67,-1.01 0.66,-1.01 0.66,-1.01 0.65,-1.01 0.64,-1.01 0.64,-1.01 0.63,-1.01 0.62,-1.01 0.62,-1.01 0.62,-1.01 0.61,-1 0.6,-1.01 0.6,-1.01 0.6,-1.01 0.59,-1.01 0.58,-1 0.59,-1.01 0.57,-1.01 0.58,-1.01 0.57,-1 0.56,-1.01 0.56,-1.01 0.56,-1 0.55,-1.01 0.55,-1.01 0.55,-1 0.54,-1.01 0.54,-1 0.54,-1.01 0.53,-1.01 0.53,-1 0.53,-1.01 0.53,-1 0.52,-1.01 0.52,-1 0.51,-1.01 0.52,-1 0.51,-1.01 0.51,-1 0.5,-1.01 0.51,-1 0.5,-1.01 0.5,-1 0.49,-1 0.5,-1.01 0.49,-1 0.49,-1.01 0.49,-1 0.49,-1 0.49,-1.01 0.48,-1 0.48,-1.01 0.48,-1 0.48,-1 0.48,-1.01 0.47,-1 0.48,-1 0.47,-1 0.47,-1.01 0.47,-1 0.47,-1 0.47,-1 0.46,-1.01 0.47,-1 0.46,-1 0.47,-1 0.46,-1.01 0.46,-1 0.46,-1 0.46,-1 0.46,-1 0.46,-1 0.45,-1.01 0.46,-1 0.46,-1 0.45,-1 0.46,-1 0.45,-1 0.45,-1 0.46,-1 0.45,-1 0.45,-1.01 0.45,-1 0.46,-1 0.45,-1 0.45,-1 0.45,-1 0.45,-1 0.45,-1 0.46,-1 0.45,-1 0.45,-1 0.45,-1 0.45,-1 0.45,-1 0.46,-0.99 0.45,-1 0.45,-1 0.46,-1 0.45,-1 0.45,-1 0.46,-1 0.46,-1 0.45,-0.99 0.46,-1 0.46,-1 0.46,-1 0.46,-1 0.46,-0.99 0.46,-1 0.46,-1 0.46,-1 0.47,-0.99 0.47,-1 0.46,-1 0.47,-1 0.47,-0.99 0.48,-1 0.47,-1 0.47,-0.99 0.48,-1 0.48,-0.99 0.48,-1 0.49,-0.99 0.48,-1 0.49,-1 0.49,-0.99 0.49,-1 0.5,-0.99 0.49,-0.99 0.5,-1 0.51,-0.99 0.5,-1 0.51,-0.99 0.52,-0.99 0.51,-1 0.52,-0.99 0.53,-0.99 0.52,-0.99 0.54,-1 0.53,-0.99 0.54,-0.99 0.55,-0.99 0.55,-0.99 0.55,-0.99 0.56,-0.99 0.57,-0.99 0.57,-0.99 0.58,-0.99 0.59,-0.99 0.59,-0.98 0.6,-0.99 0.61,-0.99 0.62,-0.98 0.62,-0.99 0.64,-0.98 0.64,-0.99 0.65,-0.98 0.67,-0.98 0.68,-0.98 0.69,-0.99 0.7,-0.97 0.72,-0.98 0.74,-0.98 0.75,-0.98 0.77,-0.97 0.79,-0.97 0.81,-0.97 0.84,-0.97 0.87,-0.97 0.89,-0.96 0.93,-0.96 0.97,-0.96 1.01,-0.95 1.07,-0.95 1.12,-0.94 1.2,-0.93 1.28,-0.92 1.39,-0.91 1.54,-0.88 1.73,-0.86 2,-0.81 2,-0.61 2,-0.41 2,-0.21 2,-0.03 2,0.17 2,0.35 2,0.53 2,0.71 2,0.87 2,1.03 1.93,1.15 1.69,1.11 1.52,1.09 1.4,1.07 1.31,1.05 1.23,1.05 1.19,1.04 1.13,1.04 1.1,1.03 1.06,1.03 1.03,1.02 1.01,1.03 0.98,1.02 0.97,1.02 0.94,1.01 0.93,1.02 0.92,1.01 0.9,1.02 0.89,1.01 0.88,1.01 0.87,1.01 0.87,1.01 0.86,1 0.85,1.01 0.84,1.01 0.84,1 0.84,1 0.83,1.01 0.83,1 0.83,1 0.82,1.01 0.83,1 0.82,1 0.82,1 0.83,1 0.82,0.99 0.82,1 0.83,1 0.83,1 0.83,0.99 0.83,1 0.84,0.99 0.84,1 0.85,0.99 0.85,1 0.86,0.99 0.86,0.99 0.87,0.99 0.88,0.99 0.88,0.99 0.9,0.99 0.9,0.99 0.92,0.99 0.92,0.99 0.94,0.98 0.95,0.99 0.97,0.98 0.98,0.99 0.99,0.98 1.02,0.98 1.03,0.98 1.05,0.98 1.08,0.98 1.1,0.97 1.13,0.98 1.16,0.97 1.19,0.97 1.22,0.97 1.27,0.97 1.31,0.96 1.36,0.96 1.42,0.96 1.48,0.95 1.56,0.94 1.64,0.95 1.74,0.93 1.87,0.93 2,0.9 2,0.82 2,0.73 2,0.65 2,0.56 2,0.49 2,0.4 2,0.33 2,0.25 2,0.19 2,0.11 2,0.04 2,-0.02 2,-0.08 2,-0.14 2,-0.2 2,-0.25 2,-0.31 2,-0.35 2,-0.4 2,-0.44 2,-0.49 2,-0.52 2,-0.56 2,-0.59 2,-0.63 2,-0.65 2,-0.69 2,-0.71 2,-0.74 2,-0.75 2,-0.78 2,-0.8 2,-0.82 2,-0.83 2,-0.85 2,-0.86 2,-0.88 2,-0.89 2,-0.9 2,-0.9 2,-0.92 2,-0.93 2,-0.93 2,-0.94 2,-0.95 2,-0.95 2,-0.96 2,-0.96 2,-0.97 2,-0.97 2,-0.97 2,-0.98 2,-0.98 2,-0.98 2,-0.98 2,-0.99 2,-0.98 2,-0.99 2,-0.99 2,-0.99 2,-1 2,-0.99 2,-0.99 2,-1 2,-0.99 2,-1 2,-1 2,-0.99 2,-1 2,-1 2,-1 2,-1 2,-0.99 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1"
+         style="fill:none;stroke:#171561;stroke-width:1"
+         id="path53" />
+    </g>
+    <image
+       y="936.33075"
+       x="250.13544"
+       id="image4324"
+       xlink:href="data:image/png;base64,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 "
+       height="52.197948"
+       width="98.859749"
+       style="fill:none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4432"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0,-1,1,0,155.1764,398.66641)"><flowRegion
+         id="flowRegion4434"><rect
+           id="rect4436"
+           width="295.75125"
+           height="98.715012"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4438"
+         style="text-align:justify;writing-mode:lr-tb;text-anchor:start">hunt probability</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4432-9"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0,-1,1,0,126.99665,782.28239)"><flowRegion
+         id="flowRegion4434-8"><rect
+           id="rect4436-0"
+           width="295.75125"
+           height="98.715012"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4438-5"
+         style="text-align:justify;writing-mode:lr-tb;text-anchor:start">hunt probability</flowPara></flowRoot>    <g
+       clip-path="url(#box-8)"
+       id="g7-2"
+       transform="matrix(0.50891045,0,0,0.50891045,398.26923,403.85445)">
+      <rect
+         x="0"
+         y="0"
+         width="650"
+         height="400"
+         style="fill:#ffffff;stroke:none"
+         id="rect9-3" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,361 650,0 M 0,321 650,321 M 0,281 650,281 M 0,241 650,241 M 0,201 650,201 M 0,161 650,161 M 0,121 650,121 M 0,81 650,81 M 0,41 650,41 M 0,1 650,1 M 32,0 32,400 M 72,0 72,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400 m 40,-400 0,400"
+         style="fill:none;stroke:#d0d0d0;stroke-width:1"
+         id="path11-0" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 193,0 0,400"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path13-5" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 186.5,401 13,0 m -13,-40 13,0 m -13,-40 13,0 m -13,-40 13,0 m -13,-40 13,0 m -13,-40 13,0 m -13,-40 13,0 m -13,-40 13,0 m -13,-40 13,0 m -13,-40 13,0 m -13,-40 13,0"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path15-3" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,321 650,0"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path17-4" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -7,314.5 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13 m 40,-13 0,13"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="path19-2" />
+      <text
+         x="201.125"
+         y="363.5"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text21-5">-0.2</text>
+      <text
+         x="201.125"
+         y="323.5"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text23-2">0</text>
+      <text
+         x="201.125"
+         y="283.5"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text25-5">0.2</text>
+      <text
+         x="201.125"
+         y="243.5"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text27-1">0.4</text>
+      <text
+         x="201.125"
+         y="203.5"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text29-3">0.6</text>
+      <text
+         x="201.125"
+         y="163.5"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text31-7">0.8</text>
+      <text
+         x="201.125"
+         y="123.5"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text33-3">1</text>
+      <text
+         x="201.125"
+         y="83.5"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text35-3">1.2</text>
+      <text
+         x="201.125"
+         y="43.5"
+         style="text-anchor:start;fill:#000000;stroke:none"
+         id="text37-4">1.4</text>
+      <text
+         x="33"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text39-3">-0.8</text>
+      <text
+         x="73"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text41-0">-0.6</text>
+      <text
+         x="113"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text43-3">-0.4</text>
+      <text
+         x="153"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text45-2">-0.2</text>
+      <text
+         x="193"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text47-6">0</text>
+      <text
+         x="233"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text49-2">0.2</text>
+      <text
+         x="273"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text51-9">0.4</text>
+      <text
+         x="313"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text53">0.6</text>
+      <text
+         x="353"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text55">0.8</text>
+      <text
+         x="393"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text57">1</text>
+      <text
+         x="433"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text59">1.2</text>
+      <text
+         x="473"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text61">1.4</text>
+      <text
+         x="513"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text63">1.6</text>
+      <text
+         x="553"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text65">1.8</text>
+      <text
+         x="593"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text67">2</text>
+      <text
+         x="633"
+         y="337.125"
+         style="text-anchor:middle;fill:#000000;stroke:none"
+         id="text69">2.2</text>
+      <path
+         inkscape:connector-curvature="0"
+         d="m -10,200 9.75,121 1,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,-0.01 2,0 2,0 2,0 2,0 2,-0.01 2,0 2,-0.01 2,-0.01 2,-0.01 2,-0.01 2,-0.02 2,-0.02 2,-0.02 2,-0.03 2,-0.03 2,-0.05 2,-0.05 2,-0.06 2,-0.08 2,-0.09 2,-0.11 2,-0.12 2,-0.16 2,-0.18 2,-0.21 2,-0.26 2,-0.29 2,-0.35 2,-0.4 2,-0.46 2,-0.54 2,-0.62 2,-0.71 2,-0.81 2,-0.92 2,-1.04 1.91,-1.13 1.7,-1.11 1.53,-1.1 1.39,-1.09 1.28,-1.07 1.19,-1.07 1.11,-1.06 1.05,-1.06 0.99,-1.05 0.94,-1.05 0.9,-1.05 0.85,-1.04 0.83,-1.04 0.79,-1.04 0.76,-1.04 0.73,-1.03 0.71,-1.03 0.69,-1.03 0.67,-1.03 0.65,-1.03 0.63,-1.03 0.62,-1.02 0.6,-1.03 0.58,-1.02 0.57,-1.02 0.56,-1.03 0.55,-1.02 0.53,-1.02 0.53,-1.02 0.51,-1.02 0.51,-1.01 0.5,-1.02 0.48,-1.02 0.48,-1.02 0.47,-1.01 0.47,-1.02 0.46,-1.01 0.45,-1.02 0.44,-1.01 0.44,-1.01 0.43,-1.02 0.43,-1.01 0.42,-1.01 0.41,-1.02 0.41,-1.01 0.41,-1.01 0.4,-1.01 0.4,-1.01 0.39,-1.01 0.39,-1.01 0.38,-1.01 0.38,-1.01 0.38,-1.01 0.37,-1.01 0.37,-1.01 0.37,-1.01 0.36,-1.01 0.36,-1.01 0.36,-1 0.35,-1.01 0.35,-1.01 0.35,-1.01 0.35,-1 0.34,-1.01 0.34,-1.01 0.34,-1 0.34,-1.01 0.33,-1.01 0.33,-1 0.33,-1.01 0.33,-1.01 0.33,-1 0.32,-1.01 0.33,-1 0.32,-1.01 0.32,-1 0.32,-1.01 0.31,-1 0.32,-1.01 0.31,-1 0.31,-1 0.31,-1.01 0.31,-1 0.31,-1.01 0.31,-1 0.3,-1 0.31,-1.01 0.3,-1 0.31,-1 0.3,-1.01 0.3,-1 0.3,-1 0.3,-1 0.3,-1.01 0.3,-1 0.29,-1 0.3,-1 0.29,-1.01 0.3,-1 0.3,-1 0.29,-1 0.29,-1 0.3,-1 0.29,-1 0.29,-1.01 0.3,-1 0.29,-1 0.29,-1 0.29,-1 0.29,-1 0.29,-1 0.3,-1 0.29,-1 0.29,-1 0.29,-1 0.29,-1 0.29,-1 0.3,-1 0.29,-1 0.29,-0.99 0.29,-1 0.3,-1 0.29,-1 0.29,-1 0.3,-1 0.29,-1 0.3,-0.99 0.29,-1 0.3,-1 0.3,-1 0.3,-0.99 0.3,-1 0.3,-1 0.3,-0.99 0.3,-1 0.3,-1 0.31,-0.99 0.3,-1 0.31,-0.99 0.31,-1 0.3,-0.99 0.32,-1 0.31,-0.99 0.31,-1 0.32,-0.99 0.32,-1 0.31,-0.99 0.33,-0.99 0.32,-1 0.33,-0.99 0.32,-0.99 0.34,-0.99 0.33,-1 0.33,-0.99 0.34,-0.99 0.35,-0.99 0.34,-0.99 0.35,-0.99 0.35,-0.99 0.36,-0.99 0.36,-0.99 0.36,-0.98 0.37,-0.99 0.38,-0.99 0.37,-0.98 0.39,-0.99 0.39,-0.98 0.39,-0.99 0.41,-0.98 0.41,-0.98 0.41,-0.98 0.43,-0.98 0.43,-0.98 0.45,-0.98 0.45,-0.97 0.47,-0.98 0.48,-0.97 0.49,-0.97 0.51,-0.96 0.53,-0.97 0.54,-0.96 0.57,-0.96 0.59,-0.95 0.63,-0.94 0.65,-0.94 0.7,-0.94 0.76,-0.91 0.81,-0.91 0.91,-0.88 1.03,-0.85 1.21,-0.79 1.53,-0.66 2,-0.31 2,0.33 2,0.97 2,1.6 1.26,1.31 0.95,1.16 0.82,1.11 0.75,1.08 0.68,1.07 0.64,1.06 0.61,1.05 0.57,1.05 0.55,1.04 0.53,1.04 0.51,1.03 0.5,1.03 0.47,1.03 0.47,1.03 0.45,1.02 0.44,1.02 0.44,1.03 0.42,1.02 0.41,1.02 0.41,1.01 0.4,1.02 0.4,1.02 0.38,1.01 0.38,1.02 0.38,1.01 0.37,1.01 0.37,1.01 0.36,1.02 0.36,1.01 0.35,1.01 0.35,1.01 0.35,1.01 0.34,1.01 0.34,1.01 0.34,1 0.33,1.01 0.33,1.01 0.33,1.01 0.33,1.01 0.32,1 0.32,1.01 0.32,1 0.32,1.01 0.32,1.01 0.31,1 0.31,1.01 0.31,1 0.31,1.01 0.31,1 0.31,1 0.3,1.01 0.31,1 0.3,1.01 0.3,1 0.3,1 0.3,1.01 0.3,1 0.3,1 0.3,1 0.29,1.01 0.3,1 0.3,1 0.29,1 0.29,1 0.3,1 0.29,1.01 0.29,1 0.3,1 0.29,1 0.29,1 0.29,1 0.3,1 0.29,1 0.29,1 0.29,1 0.29,1 0.29,1 0.29,1 0.3,1 0.29,1 0.29,1 0.29,1 0.29,1 0.3,1 0.29,0.99 0.29,1 0.3,1 0.29,1 0.3,1 0.29,1 0.3,0.99 0.3,1 0.29,1 0.3,1 0.3,0.99 0.3,1 0.3,1 0.3,1 0.3,0.99 0.3,1 0.31,1 0.3,0.99 0.31,1 0.31,1 0.3,0.99 0.31,1 0.31,0.99 0.32,1 0.31,0.99 0.31,1 0.32,1 0.32,0.99 0.32,1 0.32,0.99 0.32,0.99 0.33,1 0.32,0.99 0.33,1 0.33,0.99 0.33,1 0.34,0.99 0.33,0.99 0.34,1 0.34,0.99 0.34,0.99 0.35,0.99 0.35,1 0.35,0.99 0.35,0.99 0.36,0.99 0.36,1 0.36,0.99 0.36,0.99 0.37,0.99 0.37,0.99 0.38,0.99 0.38,0.99 0.38,0.99 0.38,0.99 0.39,0.99 0.4,0.99 0.4,0.99 0.4,0.99 0.41,0.99 0.41,0.98 0.42,0.99 0.42,0.99 0.43,0.99 0.43,0.98 0.44,0.99 0.44,0.99 0.46,0.98 0.45,0.99 0.47,0.98 0.47,0.98 0.48,0.99 0.49,0.98 0.5,0.98 0.5,0.99 0.51,0.98 0.53,0.98 0.53,0.98 0.55,0.98 0.55,0.98 0.57,0.98 0.58,0.97 0.6,0.98 0.6,0.98 0.63,0.97 0.64,0.97 0.65,0.98 0.68,0.97 0.69,0.97 0.72,0.97 0.74,0.96 0.77,0.97 0.79,0.96 0.82,0.97 0.85,0.96 0.89,0.95 0.93,0.96 0.97,0.95 1.02,0.95 1.08,0.95 1.13,0.94 1.21,0.94 1.29,0.93 1.38,0.93 1.49,0.91 1.62,0.91 1.78,0.91 1.98,0.88 2,0.79 2,0.69 2,0.6 2,0.52 2,0.46 2,0.39 2,0.33 2,0.29 2,0.24 2,0.21 2,0.17 2,0.15 2,0.13 2,0.1 2,0.09 2,0.07 2,0.06 2,0.05 2,0.04 2,0.04 2,0.03 2,0.02 2,0.02 2,0.01 2,0.01 2,0.01 2,0.01 2,0.01 2,0 2,0.01 2,0 2,0 2,0 2,0 2,0.01 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0 2,0"
+         style="fill:none;stroke:#ff00f7;stroke-width:1"
+         id="path71" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 35,400 0,0 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 1.99,-1 2,-1 2,-1 2,-1 1.99,-1 2,-1 2,-1 1.99,-1 1.99,-1.01 1.99,-1 1.99,-1 1.98,-1 1.98,-1 1.98,-1 1.97,-1.01 1.97,-1 1.95,-1.01 1.95,-1 1.94,-1.01 1.93,-1 1.91,-1.01 1.9,-1.01 1.88,-1.01 1.87,-1.01 1.84,-1.02 1.81,-1.01 1.79,-1.02 1.76,-1.02 1.73,-1.02 1.7,-1.02 1.66,-1.02 1.63,-1.02 1.58,-1.03 1.55,-1.02 1.52,-1.03 1.47,-1.03 1.43,-1.03 1.39,-1.02 1.35,-1.03 1.32,-1.03 1.28,-1.03 1.24,-1.03 1.21,-1.03 1.17,-1.03 1.14,-1.03 1.11,-1.03 1.07,-1.02 1.05,-1.03 1.02,-1.03 0.99,-1.02 0.97,-1.03 0.95,-1.03 0.92,-1.02 0.89,-1.02 0.88,-1.03 0.86,-1.02 0.84,-1.02 0.82,-1.02 0.8,-1.02 0.79,-1.03 0.77,-1.02 0.75,-1.01 0.74,-1.02 0.73,-1.02 0.71,-1.02 0.71,-1.02 0.69,-1.01 0.67,-1.02 0.67,-1.02 0.66,-1.01 0.64,-1.02 0.64,-1.01 0.63,-1.02 0.62,-1.01 0.61,-1.01 0.6,-1.02 0.6,-1.01 0.58,-1.01 0.59,-1.01 0.57,-1.01 0.57,-1.02 0.56,-1.01 0.55,-1.01 0.55,-1.01 0.54,-1.01 0.54,-1.01 0.54,-1.01 0.52,-1 0.53,-1.01 0.52,-1.01 0.51,-1.01 0.51,-1.01 0.51,-1 0.5,-1.01 0.5,-1.01 0.5,-1.01 0.49,-1 0.49,-1.01 0.49,-1 0.48,-1.01 0.48,-1 0.48,-1.01 0.48,-1 0.47,-1.01 0.47,-1 0.47,-1.01 0.47,-1 0.46,-1.01 0.47,-1 0.46,-1 0.46,-1.01 0.46,-1 0.46,-1 0.45,-1 0.46,-1.01 0.46,-1 0.45,-1 0.45,-1 0.46,-1 0.45,-1 0.45,-1 0.45,-1 0.45,-1 0.45,-1 0.46,-1 0.45,-1 0.45,-1 0.45,-1 0.45,-1 0.46,-1 0.45,-0.99 0.46,-1 0.45,-1 0.46,-1 0.46,-0.99 0.46,-1 0.46,-1 0.47,-0.99 0.46,-1 0.47,-0.99 0.47,-1 0.47,-0.99 0.48,-1 0.47,-0.99 0.49,-0.99 0.48,-1 0.49,-0.99 0.49,-0.99 0.5,-0.99 0.5,-0.99 0.5,-0.99 0.51,-0.99 0.52,-0.99 0.52,-0.99 0.53,-0.99 0.53,-0.98 0.54,-0.99 0.55,-0.98 0.56,-0.99 0.56,-0.98 0.58,-0.98 0.58,-0.98 0.6,-0.98 0.61,-0.98 0.63,-0.98 0.63,-0.97 0.66,-0.98 0.67,-0.97 0.69,-0.97 0.72,-0.96 0.74,-0.97 0.77,-0.95 0.8,-0.96 0.84,-0.95 0.88,-0.94 0.94,-0.94 1,-0.92 1.09,-0.91 1.19,-0.9 1.33,-0.87 1.53,-0.82 1.86,-0.75 2,-0.5 2,-0.18 2,0.12 2,0.41 2,0.7 2,0.96 2,1.21 1.65,1.17 1.41,1.12 1.26,1.08 1.17,1.06 1.1,1.05 1.04,1.05 1,1.03 0.97,1.03 0.94,1.03 0.91,1.02 0.9,1.02 0.88,1.02 0.86,1.01 0.86,1.01 0.84,1.01 0.84,1.01 0.83,1 0.83,1 0.82,1.01 0.82,1 0.83,0.99 0.82,1 0.83,1 0.83,0.99 0.83,0.99 0.84,1 0.85,0.99 0.86,0.98 0.86,0.99 0.88,0.99 0.9,0.98 0.9,0.98 0.93,0.98 0.94,0.98 0.97,0.97 0.99,0.97 1.02,0.97 1.05,0.97 1.08,0.96 1.13,0.96 1.18,0.96 1.23,0.95 1.3,0.94 1.37,0.94 1.47,0.92 1.59,0.91 1.75,0.9 1.94,0.87 2,0.77 2,0.62 2,0.5 2,0.37 2,0.25 2,0.14 2,0.03 2,-0.08 2,-0.16 2,-0.26 2,-0.33 2,-0.41 2,-0.48 2,-0.54 2,-0.59 2,-0.65 2,-0.69 2,-0.73 2,-0.77 2,-0.8 2,-0.83 2,-0.85 2,-0.87 2,-0.89 2,-0.91 2,-0.93 2,-0.93 2,-0.95 2,-0.95 2,-0.96 2,-0.97 2,-0.98 2,-0.98 2,-0.98 2,-0.98 2,-0.99 2,-0.99 2,-0.99 2,-1 2,-0.99 2,-1 2,-1 2,-0.99 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-0.99 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1"
+         style="fill:none;stroke:#171561;stroke-width:1"
+         id="path73" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -10,200 9.75,117.62 1,-0.5 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 1.99,-1 2,-1 2,-1 2,-1 2,-1 1.99,-1 2,-1 1.99,-1 1.99,-1 1.99,-1 1.99,-1 1.98,-1 1.99,-1.01 1.97,-1 1.97,-1 1.97,-1.01 1.96,-1 1.95,-1.01 1.94,-1 1.93,-1.01 1.91,-1.01 1.91,-1.01 1.88,-1.01 1.86,-1.01 1.85,-1.01 1.82,-1.01 1.79,-1.02 1.76,-1.02 1.74,-1.02 1.7,-1.02 1.66,-1.02 1.63,-1.02 1.6,-1.03 1.55,-1.02 1.52,-1.03 1.48,-1.03 1.43,-1.03 1.4,-1.03 1.36,-1.02 1.32,-1.03 1.28,-1.03 1.25,-1.03 1.21,-1.03 1.17,-1.03 1.15,-1.03 1.11,-1.03 1.08,-1.03 1.05,-1.02 1.02,-1.03 1,-1.03 0.97,-1.02 0.95,-1.03 0.92,-1.02 0.9,-1.03 0.88,-1.02 0.86,-1.02 0.84,-1.02 0.83,-1.03 0.8,-1.02 0.79,-1.02 0.77,-1.02 0.76,-1.02 0.74,-1.02 0.73,-1.01 0.72,-1.02 0.7,-1.02 0.69,-1.02 0.68,-1.01 0.67,-1.02 0.66,-1.01 0.64,-1.02 0.64,-1.01 0.63,-1.02 0.62,-1.01 0.61,-1.02 0.61,-1.01 0.59,-1.01 0.59,-1.01 0.58,-1.02 0.58,-1.01 0.57,-1.01 0.56,-1.01 0.55,-1.01 0.55,-1.01 0.55,-1.01 0.54,-1.01 0.53,-1.01 0.53,-1.01 0.52,-1.01 0.52,-1.01 0.52,-1 0.51,-1.01 0.51,-1.01 0.5,-1.01 0.5,-1 0.5,-1.01 0.49,-1.01 0.49,-1 0.49,-1.01 0.48,-1 0.48,-1.01 0.48,-1 0.48,-1.01 0.47,-1 0.47,-1.01 0.47,-1 0.47,-1.01 0.47,-1 0.46,-1 0.46,-1.01 0.46,-1 0.46,-1 0.46,-1.01 0.46,-1 0.45,-1 0.46,-1 0.45,-1 0.46,-1.01 0.45,-1 0.45,-1 0.45,-1 0.46,-1 0.45,-1 0.45,-1 0.45,-1 0.45,-1 0.45,-1 0.45,-1 0.46,-0.99 0.45,-1 0.46,-1 0.45,-1 0.46,-1 0.45,-0.99 0.46,-1 0.46,-1 0.46,-0.99 0.47,-1 0.46,-0.99 0.47,-1 0.47,-0.99 0.47,-1 0.48,-0.99 0.47,-1 0.49,-0.99 0.48,-0.99 0.49,-0.99 0.49,-1 0.49,-0.99 0.5,-0.99 0.51,-0.99 0.51,-0.99 0.51,-0.99 0.52,-0.98 0.53,-0.99 0.53,-0.99 0.54,-0.99 0.55,-0.98 0.56,-0.98 0.56,-0.99 0.58,-0.98 0.58,-0.98 0.6,-0.98 0.6,-0.98 0.63,-0.98 0.63,-0.97 0.66,-0.98 0.67,-0.97 0.69,-0.97 0.71,-0.96 0.73,-0.97 0.77,-0.95 0.8,-0.96 0.83,-0.95 0.88,-0.94 0.93,-0.94 1,-0.93 1.07,-0.91 1.17,-0.9 1.31,-0.87 1.5,-0.83 1.81,-0.76 2,-0.54 2,-0.23 2,0.08 2,0.38 2,0.66 2,0.93 2,1.18 1.69,1.18 1.44,1.12 1.28,1.09 1.18,1.06 1.11,1.06 1.05,1.04 1.01,1.04 0.97,1.03 0.94,1.03 0.92,1.02 0.9,1.02 0.88,1.01 0.86,1.02 0.86,1.01 0.84,1.01 0.84,1 0.83,1.01 0.83,1 0.83,1.01 0.82,1 0.82,0.99 0.83,1 0.82,1 0.83,0.99 0.83,1 0.84,0.99 0.85,0.99 0.86,0.99 0.86,0.98 0.88,0.99 0.89,0.98 0.9,0.98 0.93,0.98 0.94,0.98 0.96,0.98 0.99,0.97 1.01,0.97 1.05,0.97 1.08,0.96 1.12,0.96 1.17,0.95 1.22,0.95 1.29,0.95 1.36,0.93 1.46,0.93 1.57,0.92 1.72,0.9 1.91,0.87 2,0.79 2,0.64 2,0.52 2,0.39 2,0.26 2,0.16 2,0.04 2,-0.06 2,-0.15 2,-0.24 2,-0.33 2,-0.4 2,-0.47 2,-0.53 2,-0.58 2,-0.64 2,-0.69 2,-0.72 2,-0.77 2,-0.79 2,-0.82 2,-0.85 2,-0.87 2,-0.89 2,-0.91 2,-0.92 2,-0.94 2,-0.94 2,-0.95 2,-0.97 2,-0.96 2,-0.98 2,-0.97 2,-0.99 2,-0.98 2,-0.99 2,-0.99 2,-0.99 2,-1 2,-0.99 2,-1 2,-0.99 2,-1 2,-1 2,-1 2,-0.99 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1"
+         style="fill:none;stroke:#0fb300;stroke-width:1"
+         id="path75" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4432-5"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0,-1,1,0,534.07787,310.38463)"
+       inkscape:transform-center-x="369.28571"
+       inkscape:transform-center-y="292.14286"><flowRegion
+         id="flowRegion4434-1"><rect
+           id="rect4436-3"
+           width="295.75125"
+           height="98.715012"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4438-8"
+         style="text-align:justify;writing-mode:lr-tb;text-anchor:start">hunt probability</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4432-51"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(337.97684,708.94041)"><flowRegion
+         id="flowRegion4434-2"><rect
+           id="rect4436-2"
+           width="295.75125"
+           height="98.715012"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         style="text-align:justify;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara4507">Opponent's reputation (rep)</flowPara></flowRoot>    <flowRoot
+       transform="translate(321.293,1079.1239)"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4511"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4513"><rect
+           style="font-size:10px;text-align:justify;text-anchor:start"
+           y="-59.066391"
+           x="-194.28572"
+           height="98.715012"
+           width="295.75125"
+           id="rect4515" /></flowRegion><flowPara
+         id="flowPara4517"
+         style="text-align:justify;writing-mode:lr-tb;text-anchor:start">Opponent's reputation (rep)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4519"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(716.26255,637.04266)"><flowRegion
+         id="flowRegion4521"><rect
+           id="rect4523"
+           width="295.75125"
+           height="98.715012"
+           x="-194.28572"
+           y="-59.066391"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         style="text-align:justify;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara4525">Opponent's reputation (rep)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4553"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(235.36554,-8.0812204)"><flowRegion
+         id="flowRegion4555"><rect
+           id="rect4557"
+           width="411.13208"
+           height="45.456863"
+           x="342.44171"
+           y="16.955824" /></flowRegion><flowPara
+         id="flowPara4559"
+         style="font-size:20px">Rosie Campbell</flowPara></flowRoot>    <image
+       style="fill:none"
+       width="98.859749"
+       height="52.197948"
+       xlink:href="data:image/png;base64,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 "
+       id="image3304"
+       x="552.17114"
+       y="382.97021" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3306"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Abyssinica SIL;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Abyssinica SIL;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3308"><rect
+           id="rect3310"
+           width="315.1676"
+           height="239.40616"
+           x="-64.649765"
+           y="503.84933"
+           style="-inkscape-font-specification:Abyssinica SIL;font-family:Abyssinica SIL;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:20px" /></flowRegion><flowPara
+         id="flowPara3312"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+       x="671.75146"
+       y="408.89502"
+       id="text3314"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3316"
+         x="671.75146"
+         y="408.89502"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">+ 0.5</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3318"
+       y="418.99658"
+       x="534.37073"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+       xml:space="preserve"><tspan
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         y="418.99658"
+         x="534.37073"
+         id="tspan3320"
+         sodipodi:role="line">(</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+       x="-669.20813"
+       y="418.99658"
+       id="text3322"
+       sodipodi:linespacing="125%"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         id="tspan3324"
+         x="-669.20813"
+         y="418.99658"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">(</tspan></text>
+  </g>
+</svg>
